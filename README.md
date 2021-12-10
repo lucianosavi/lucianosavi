@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucianosavi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianosavi&layout=compact&langs_count=7&theme=radical"/>
 </div>
-<a href="https://www.instagram.com/lourencosavi/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/87/87390.png"target="_blank"></a>
+<a href="https://www.instagram.com/lourencosavi/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/300/1419/1419647.png"target="_blank"></a>
 <a href="https://www.facebook.com/luciano.lourencosavi/"target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_xUFTZ9m5OOf36rdo8_90RD83oZxs3M5NAdnFCOUgCdbrf133FzN0ycKwYOtI0Goz5Zg&usqp=CAU"target="_blank"></a>
 <a href="https://www.linkedin.com/in/luciano-louren%C3%A7o-savi-53aa4b89/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
 <a href="https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl?si=cbbf2c178b7c4c54" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a>
