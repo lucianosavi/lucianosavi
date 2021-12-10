@@ -38,5 +38,5 @@ target="_blank"></a>
 target="_blank"></a>
 <a href = "https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl?si=cbbf2c178b7c4c54"> src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"
 target="_blank"></a>
-<a href = "https://steamcommunity.com/profiles/76561198135147597"> src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white%22target="_blank"></a>
+<a href = "https://steamcommunity.com/profiles/76561198135147597"> src="https://tm.ibxk.com.br/2020/09/16/16194009735703.jpg?ims=704x264"></a>
  </div>
