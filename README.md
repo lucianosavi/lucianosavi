@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 <div>
-<a href = "https://github.com/lucianosavi"> src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"target="_blank"></a>
+<a href="https://www.instagram.com/lourencosavi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
 <a href = "https://www.instagram.com/lourencosavi/"> src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
 <a href="https://www.linkedin.com/in/luciano-louren%C3%A7o-savi-53aa4b89/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
 <a href = "https://www.facebook.com/luciano.lourencosavi/"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"target="_blank"></a>
-<a href = "https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl?si=cbbf2c178b7c4c54"> src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a>
-<a href = "https://steamcommunity.com/profiles/76561198135147597"> src="https://tm.ibxk.com.br/2020/09/16/16194009735703.jpg?ims=704x264"></a>
+<a href = "https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl?si=cbbf2c178b7c4c54"> img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a>
+<a href = "https://steamcommunity.com/profiles/76561198135147597"> img src="https://tm.ibxk.com.br/2020/09/16/16194009735703.jpg?ims=704x264"></a>
  </div>
