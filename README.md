@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/lourencosavi/" target="_blank"><img src="https://i.ibb.co/0cKm41t/instagram-1.png"target="_blank"></a>
 <a href="https://www.facebook.com/luciano.lourencosavi/"target="_blank"><img src="https://i.ibb.co/cD4kC0N/facebook.png"target="_blank"></a>
 <a href="https://www.linkedin.com/in/luciano-louren%C3%A7o-savi-53aa4b89/" target="_blank"><img src="https://i.ibb.co/47LcsML/linkedin.png"target="_blank"></a>
-<a href="https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl?si=cbbf2c178b7c4c54" target="_blank"><img src="https://i.ibb.co/BtGKdC5/spotify-1.png"target="_blank"></a>
+<a href="https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl?si=cbbf2c178b7c4c54" target="_blank"><img src="https://i.ibb.co/RPLK23h/spotify-logo-icon-134023.png"target="_blank"></a>
 <a href="https://steamcommunity.com/profiles/76561198135147597" target="_blank"><img src="https://i.ibb.co/KV8Zp9D/steam-alt-macos-bigsur-icon-189698.png"target="_blank"></a>
 
  </div>
