@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 --><div>
 <a href="https://github.com/lucianosavi">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucianosavi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianosavi&layout=compact&langs_count=10&theme=radical"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianosavi&layout=compact&langs_count=100&theme=radical"/>
 </div>
 <a href="https://www.instagram.com/lourencosavi/" target="_blank"><img src="https://i.ibb.co/0cKm41t/instagram-1.png"target="_blank"></a>
 <a href="https://www.facebook.com/luciano.lourencosavi/"target="_blank"><img src="https://i.ibb.co/cD4kC0N/facebook.png"target="_blank"></a>
